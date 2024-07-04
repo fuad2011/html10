@@ -1,0 +1,33 @@
+.up{
+    display: flex;
+}
+
+i{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.up2{
+    display: flex;
+    margin-left: 600px;
+    justify-content: space-between;
+}
+button{
+    margin-left: 70px;
+    width: 140px;
+    border-radius: 50px; 
+    background-color: orange;
+    background-image: ;
+}
+.midle{
+    background: url(https://scene7.toyota.eu/is/image/toyotaeurope/grsupraiconimage?wid=1280&fit=fit,1&ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0);
+    width: 100vw;
+    height: 600px;
+    background-repeat:no-repeat ;
+}
+.button2{
+    width: 140px;
+    border-radius: 50px; 
+}
+h1{
+    color: gray;
+}
